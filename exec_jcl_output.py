@@ -1,8 +1,6 @@
 import ftplib
 import time
 
-#
-
 job_list = []
 job_log  = []
 
